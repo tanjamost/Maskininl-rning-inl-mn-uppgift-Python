@@ -24,3 +24,16 @@ Här är ett exempel på utdata du kan förvänta dig från API:n:
 }
 
 Denna JSON-output innehåller de predicted iris arterna för de givna input features, som i det här fallet är "setosa".
+
+
+**Random Forest kan vara en effektiv databearbetningsmetod av flera skäl:**
+
+  1#  Iris-datasetet är litet och Random Forest kan vara effektivt eftersom det kan hantera en liten mängd data.
+
+  2#   Iris data har endast 4 funktioner, och Random Forest kan bearbeta många funktioner,  och kan ge mer exakta resultat.
+
+  3#  Varje art av iris har unika egenskaper som skiljer dem från varandra. Random Forest kan ta hand om dem när man tränar modellen och få mer exakta resultat.
+
+  4#   Random Forest kan bestämma vilka egenskaper är viktigast, det kan hjälpa till att bestämma vilka kronblads- och foderbladsmått är viktigast för att skilja mellan olika irisarter.
+
+  5#  Random Forest kan hantera obalanserad data, det kan användas om datasetet har ett ojämnt antal poster för varje irisklass.
